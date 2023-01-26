@@ -37,7 +37,9 @@ with open('sample.txt','r') as file1:
 
 ### OUTPUT:
 
-![](co.png)
+![](c1.png)
+![](c2.png)
+![](c3.png)
 
 
 ## RESULT:
